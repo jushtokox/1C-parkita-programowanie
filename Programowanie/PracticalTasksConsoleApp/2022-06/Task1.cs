@@ -63,3 +63,8 @@ class Osoba
 
 
 */
+
+
+
+
+//pokazane

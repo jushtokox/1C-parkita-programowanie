@@ -41,3 +41,8 @@ parametry:              <a - typ uint
 zwracany typ i opis:    <uint zwracany jest najwiekszy wspulny dzielkik
 autor:                  <>
 *************************/
+
+
+
+
+//pokazane

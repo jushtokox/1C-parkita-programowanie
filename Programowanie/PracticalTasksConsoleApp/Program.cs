@@ -15,6 +15,6 @@ internal class Program
 
         //Task4 task4 = new Task4(); task4.Task(q2);
 
-        Task5 task5 = new Task5(); task5.Task();
+       // Task5 task5 = new Task5(); task5.Task();
     }
 }

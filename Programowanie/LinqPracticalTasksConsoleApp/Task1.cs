@@ -64,7 +64,7 @@ namespace LinqPracticalTasksConsoleApp
 35. Przyporządkuj każdą osobę do przedziału wiekowego (np. 20–29, 30–39, 40–49) i wypisz osoby z każdego przedziału.
 
 */
-/
+
 
     internal class Task1
     {

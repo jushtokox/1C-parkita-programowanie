@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticalTasksConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c9fdbb2ddfa5b6696a3fec623450cc20c3daa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3760d3b698b402a9cab2c544338f0c1f9ea0f32d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticalTasksConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticalTasksConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

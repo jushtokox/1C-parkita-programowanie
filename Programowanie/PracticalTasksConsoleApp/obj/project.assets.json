@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\3c-programowanie FP\\Programowanie\\PracticalTasksConsoleApp\\PracticalTasksConsoleApp.csproj",
+      "projectUniqueName": "C:\\4c fp\\Programowanie\\PracticalTasksConsoleApp\\PracticalTasksConsoleApp.csproj",
       "projectName": "PracticalTasksConsoleApp",
-      "projectPath": "C:\\3c-programowanie FP\\Programowanie\\PracticalTasksConsoleApp\\PracticalTasksConsoleApp.csproj",
+      "projectPath": "C:\\4c fp\\Programowanie\\PracticalTasksConsoleApp\\PracticalTasksConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Uczen\\.nuget\\packages\\",
-      "outputPath": "C:\\3c-programowanie FP\\Programowanie\\PracticalTasksConsoleApp\\obj\\",
+      "outputPath": "C:\\4c fp\\Programowanie\\PracticalTasksConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
